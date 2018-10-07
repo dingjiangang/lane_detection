@@ -7,7 +7,7 @@ Docker
 
 ### Installation
 1. Download the project.
-2. Position yourself in the folder lane_detection
+2. Position yourself in the folder lane_detection-master
 3. Run: docker build -t lane .
 
 ### Running the tests
