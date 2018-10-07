@@ -14,3 +14,6 @@ Docker
 1. Run: docker run -ti -e DISPLAY=$DISPLAY -v $(pwd):/tmp lane python lane.py 
 
 This will execute the algorithm on all .jpg images in folders ./test/outdoor and ./test/indoor. Results are saved in the folder ./test
+
+### Dataset used
+https://www.researchgate.net/project/Dataset-for-Lane-Detection
